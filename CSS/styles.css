@@ -41,7 +41,6 @@ h3 {
 	margin: 100px 0;	
 }
 .skills {
-	/*border-color: #eaf6f6;*/
 	border-color: #f9f7f7;
 	width: 80%;
 	border-style: solid;
@@ -50,8 +49,6 @@ h3 {
 	border-radius: 20px;
 	margin: auto;
 	padding-top: 30px;
-	/*background-color: #f9f7f7;*/
-	/*border-top-style: outset;*/
 	border-width: 7px;
 }
 
@@ -64,14 +61,12 @@ h3 {
 	position: absolute;
 	top: 80px;
 	right: 330px;
-	/*height: 70px;*/
 }
 
 .bottom-cloud {
 	position: absolute;
 	left: 330px;
 	bottom: 290px;
-	/*height: 70px;*/
 }
 
 .mountain {
@@ -86,7 +81,7 @@ h3 {
 .profile-image {
 	height: 190px;
 	width: 15%;
-	border-radius: 40px;
+	border-radius: 100%;
 }
 
 .skills-image {
